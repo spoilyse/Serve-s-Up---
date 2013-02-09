@@ -11,11 +11,11 @@ a {
 
 body {
   text-align: center;
-  background-image: url(images/left.png);
+  background-image: url(http://www.google.com/url?sa=i&rct=j&q=unicorn&source=images&cd=&cad=rja&docid=-1X-lHRmQbExFM&tbnid=me31cmte4eTnJM:&ved=0CAUQjRw&url=http%3A%2F%2Fwww.123rf.com%2Fphoto_15481767_cute-unicorn-horse-color-sketch-vector-art.html&ei=kc0WUY_BC7HriQKJl4CwCQ&bvm=bv.42080656,d.cGE&psig=AFQjCNH7rCAUai8U3V1Do71d-kvfj9ZalQ&ust=1360535280662932);
   background-repeat: no-repeat;
-  background-color: #F26522;
-  color: #DA4930;
-  font-family: "Days One", sans-serif;
+  background-color: #FE2E64;
+  color: #2E64FE;
+  font-family: "Cartoon", sans-serif;
 }
 
 /* The #game element holds the whole game */
